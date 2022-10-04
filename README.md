@@ -3,7 +3,7 @@ Howdy! 👋  My name is Marcus or “itsZeroday”. I’m a hard-working individ
 
 <h4 align="center">ISFP / Type 5w6/4</h4>
 
-On my repository, there are a number of articles I have written regarding Blockchain & Cyber Security.
+On my [repository](https://github.com/itsZeroday/itsZeroday), there are a number of articles I have written regarding Blockchain & Cyber Security.
 
 <h1 align="center">Work Experience</h1>
 
