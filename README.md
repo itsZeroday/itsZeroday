@@ -1,3 +1,4 @@
+console.log(gradient.rainbow('I love gradient-strings!'))
 <h1 align="center">Marcus “itsZeroday” Clarahan</h1>
 Howdy! 👋  My name is Marcus or “itsZeroday”. I’m a hard-working individual who likes to show up early. I’m a quick-study with a very diverse skill set, and I work well under pressure. I am a patient and understanding individual, both as an employee and as a leader amongst my peers.
 
