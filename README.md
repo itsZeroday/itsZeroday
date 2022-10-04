@@ -3,6 +3,8 @@ Howdy! 👋  My name is Marcus or “itsZeroday”. I’m a hard-working individ
 
 <h4 align="center">ISFP / Type 5w6/4</h4>
 
+On my repository, there are a number of articles I have written regarding Blockchain & Cyber Security.
+
 <h1 align="center">Work Experience</h1>
 
 * <b>11/2021 – Current | Customer Support Engineer @ Hiveon</b> - I help manage the Discord server, and primarily interact with users through a ticket-based system (Intercom). I help users troubleshoot and set up their rigs through our crypto mining operating system, and educate them on how to troubleshoot their own rigs. I have also participated in conferences.
