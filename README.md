@@ -49,4 +49,4 @@ Community College `*` - Associates in Applied Sciences in Information Technology
     Desktop Support
     
 <h1 align="center">Contact</h1>
-<p align="center"> Feel free to drop me an email at contact@itszeroday.dev
+<p align="center"> Feel free to drop me an email at [email pending]</p>
