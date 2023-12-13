@@ -1,9 +1,14 @@
 <h1 align="center">Marcus “itsZeroday” Clarahan</h1>
-Howdy! 👋  My name is Marcus or “itsZeroday”. I’m a hard-working individual who likes to show up early. I’m a quick-study with a very diverse skill set, and I work well under pressure. I am a patient and understanding individual, both as an employee and as a leader amongst my peers.
+Howdy! 👋
+
+My name is Marcus or “itsZeroday”. I am a hard-working individual who takes pride in my work and strives to deliver quality results. With a diverse skill set, I am not afraid to take on new challenges and I’m constantly expanding my knowledge. I have a knack for quickly grasping new concepts and adapting to different situations. I’m a patient and understanding individual, bot has an employee and as a leader amongst my peers.
+
+My primary strength is my ability to work well under pressure. I thrive in fast-paced environments and can effectively prioritize tasks to meet tight deadlines. I remain calm and focused, ensuring that all necessary steps are taken to achieve the desired outcome.
+
+Aside from being a diligent worker, I also possess excellent leadership qualities. I am patient and understanding, always willing to lend a listening ear and offer guidance to my colleagues. As a leader amongst my peers, I strive to create a positive and inclusive work environment, where everyone feels valued and supported.
 
 <h4 align="center">ISFP / Type 5w6/4</h4>
 
-On my [repository](https://github.com/itsZeroday/itsZeroday), there are a number of articles I have written regarding Blockchain & Cyber Security.
 
 <h1 align="center">Work Experience</h1>
 
@@ -28,25 +33,30 @@ Community College `*` - Associates in Applied Sciences in Information Technology
 
 `*` Full resume furnishable upon request.
 <h1 align="center">Skills</h1>
-
-    Hardware and Software-related troubleshooting
-    Ticket-Based Support Systems (Intercom, Teamwork)
-    Community Management (Discord, Telegram, Facebook, Twitter)
-    Volunteer Management & Acquisition
-    Photography
-    WordPress.com & WordPress.org
-    Windows (7, 8, 10, 11) & Linux-based OSes (Ubuntu)
-    Some programming knowledge (Including web development [HTML, CSS] & some Python)
-    Microsoft Office Suite (Moderate knowledge of all products)
-    Google Workspace (Sheets, Docs, Drive)
-    Adobe Office Suite (Primarily Photoshop)
-    Management
-    Leadership
-    Customer Service
-    Customer Support
-    Multitasking
-    Time Management
-    Desktop Support
+# Hard Skills
+  Remote installation of software through Mesh Agent
+  Directly responsible for onboarding new clients to our system
+  Hardware and Software-related troubleshooting
+  Ticket-Based Support Systems (Intercom, Teamwork)
+  WordPress.com & WordPress.org
+  Windows (7, 8, 10, 11) & Linux-based OSes (primarily Ubuntu 18.04 LTS & 22.04 LTS)
+  Self-taught creation of Linux-based servers (Features include Java-based applications, UFW, web servers, etc.)
+  Microsoft Office Suite (Word, Excel, Publisher, Powerpoint, OneNote)
+  Google Workspace (Sheets, Docs, Drive)
+  Notion
+  Adobe Office Suite (Photoshop, Lightroom, Illustrator)
+  World Building
+  Creative Writing
+  Team Building
+# Soft Skills
+  Management
+  Leadership
+  Customer Service
+  Customer Support
+  Multitasking
+  Time Management
+  Community Management (Discord, Telegram, Facebook, Twitter)
+  Volunteer Management & Acquisition
     
 <h1 align="center">Contact</h1>
 <p align="center"> Feel free to drop me an email at contact@itszeroday.dev</p>
