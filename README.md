@@ -1,5 +1,5 @@
 <h1 align="center">Marcus “itsZeroday” Clarahan</h1>
-Howdy! 👋
+<h3 align="center">Howdy! 👋</h3>
 
 My name is Marcus or “itsZeroday”. I am a hard-working individual who takes pride in my work and strives to deliver quality results. With a diverse skill set, I am not afraid to take on new challenges and I’m constantly expanding my knowledge. I have a knack for quickly grasping new concepts and adapting to different situations. I’m a patient and understanding individual, bot has an employee and as a leader amongst my peers.
 
@@ -63,4 +63,4 @@ Community College `*` - Associates in Applied Sciences in Information Technology
   * Volunteer Management & Acquisition
     
 <h1 align="center">Contact</h1>
-<p align="center"> Feel free to drop me an email at contact@itszeroday.dev</p>
+<p align="center"> Feel free to drop me a line at mail@itszeroday.dev</p>
