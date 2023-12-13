@@ -33,7 +33,9 @@ Community College `*` - Associates in Applied Sciences in Information Technology
 
 `*` Full resume furnishable upon request.
 <h1 align="center">Skills</h1>
+
 # Hard Skills
+
   * Remote installation of software through Mesh Agent
   * Directly responsible for onboarding new clients to our system
   * Hardware and Software-related troubleshooting
@@ -48,7 +50,9 @@ Community College `*` - Associates in Applied Sciences in Information Technology
   * World Building
   * Creative Writing
   * Team Building
+
 # Soft Skills
+
   * Management
   * Leadership
   * Customer Service
