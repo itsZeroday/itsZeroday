@@ -34,29 +34,29 @@ Community College `*` - Associates in Applied Sciences in Information Technology
 `*` Full resume furnishable upon request.
 <h1 align="center">Skills</h1>
 # Hard Skills
-  Remote installation of software through Mesh Agent
-  Directly responsible for onboarding new clients to our system
-  Hardware and Software-related troubleshooting
-  Ticket-Based Support Systems (Intercom, Teamwork)
-  WordPress.com & WordPress.org
-  Windows (7, 8, 10, 11) & Linux-based OSes (primarily Ubuntu 18.04 LTS & 22.04 LTS)
-  Self-taught creation of Linux-based servers (Features include Java-based applications, UFW, web servers, etc.)
-  Microsoft Office Suite (Word, Excel, Publisher, Powerpoint, OneNote)
-  Google Workspace (Sheets, Docs, Drive)
-  Notion
-  Adobe Office Suite (Photoshop, Lightroom, Illustrator)
-  World Building
-  Creative Writing
-  Team Building
+  * Remote installation of software through Mesh Agent
+  * Directly responsible for onboarding new clients to our system
+  * Hardware and Software-related troubleshooting
+  * Ticket-Based Support Systems (Intercom, Teamwork)
+  * WordPress.com & WordPress.org
+  * Windows (7, 8, 10, 11) & Linux-based OSes (primarily Ubuntu 18.04 LTS & 22.04 LTS)
+  * Self-taught creation of Linux-based servers (Features include Java-based applications, UFW, web servers, etc.)
+  * Microsoft Office Suite (Word, Excel, Publisher, Powerpoint, OneNote)
+  * Google Workspace (Sheets, Docs, Drive)
+  * Notion
+  * Adobe Office Suite (Photoshop, Lightroom, Illustrator)
+  * World Building
+  * Creative Writing
+  * Team Building
 # Soft Skills
-  Management
-  Leadership
-  Customer Service
-  Customer Support
-  Multitasking
-  Time Management
-  Community Management (Discord, Telegram, Facebook, Twitter)
-  Volunteer Management & Acquisition
+  * Management
+  * Leadership
+  * Customer Service
+  * Customer Support
+  * Multitasking
+  * Time Management
+  * Community Management (Discord, Telegram, Facebook, Twitter)
+  * Volunteer Management & Acquisition
     
 <h1 align="center">Contact</h1>
 <p align="center"> Feel free to drop me an email at contact@itszeroday.dev</p>
